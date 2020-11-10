@@ -1,0 +1,13 @@
+.menu{
+	background-color: black;
+	color: white;
+	font-family: impact;
+}
+.conteudo{
+	color: white;
+	font-family: impact;
+	background-color: gray;
+}
+body{
+	background-image: url('./SITE/floresta.jpeg');
+}

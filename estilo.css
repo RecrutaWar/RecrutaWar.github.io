@@ -1,0 +1,25 @@
+.menu{
+	background-color: black;
+	color: white;
+	font-family: impact;
+}
+.conteudo{
+	color: white;
+	font-family: impact;
+}
+.texto{
+	font-family: impact;
+}
+body{
+	background-image: url('https://thumbs.dreamstime.com/t/floresta-do-outono-das-madeiras-preto-e-branco-61331662.jpg') no-repeat cover center;
+	background-repeat: no-repeat;/*da pra fazer dos dois jeitos a cima*/
+	background-size: cover; /*adaptar pra ocupar smp  a tela toda*/
+	background-position: center;
+	background-size: contain; /*adaptar pra mostrar smp toda imagem*/
+	opacity: 1; /*opacidade de 0 a 1*/
+
+}	
+
+#espaço{
+	height: 300px;
+}
